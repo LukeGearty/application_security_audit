@@ -18,9 +18,9 @@ Security is best learned by doing, and I felt that by trying to build my own app
 
 # Contents
 
-Small, self-contained applications
-Documented security findings with technical explanations
-Proof-of-concept exploit or crash demonstrations
+- Small, self-contained applications
+- Documented security findings with technical explanations
+- Proof-of-concept exploit or crash demonstrations
 
 # Goals
 
